@@ -8,6 +8,7 @@ attachments
 .project_id
 .node_modules.lock
 dist
+dist-pages
 .output
 .env
 .env.*
